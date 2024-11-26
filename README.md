@@ -1,3 +1,5 @@
+# Relatório Técnico e Funcional do Circuito de captura de amostras
+
 ## **Introdução**
 Este relatório apresenta a análise técnica e funcional de um circuito que faz parte de um projeto de Internet das Coisas (IoT) para monitoramento da qualidade do ar. O objetivo central é registrar dados de concentração de poluentes atmosféricos em uma área específica e transmitir essas informações para uma API, onde serão processados e exibidos em tempo real em uma plataforma web.
 
